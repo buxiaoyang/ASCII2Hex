@@ -1,0 +1,10 @@
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\ASCII2Hex\bin\Debug\ASCII2Hex.exe.config
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\bin\Debug\ASCII2Hex.exe.config
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\bin\Debug\ASCII2Hex.exe
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\bin\Debug\ASCII2Hex.pdb
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\obj\Debug\ASCII2Hex.csprojResolveAssemblyReference.cache
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\obj\Debug\ASCII2Hex.Properties.Resources.resources
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\obj\Debug\ASCII2Hex.csproj.GenerateResource.Cache
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\obj\Debug\ASCII2Hex.exe
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\obj\Debug\ASCII2Hex.pdb
+C:\Users\bux\Projects\GitHub\ASCII2Hex\trunk\obj\Debug\ASCII2Hex.Form1.resources

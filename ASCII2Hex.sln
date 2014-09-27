@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCII2Hex", "ASCII2Hex.csproj", "{9161BE78-CCB7-447F-B7D8-2871E0E76D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9161BE78-CCB7-447F-B7D8-2871E0E76D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9161BE78-CCB7-447F-B7D8-2871E0E76D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9161BE78-CCB7-447F-B7D8-2871E0E76D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9161BE78-CCB7-447F-B7D8-2871E0E76D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
